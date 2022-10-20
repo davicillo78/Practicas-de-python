@@ -1,2 +1,2 @@
-# Pr-cticas-de-python
+# Practicas-de-python
 Repositorio con las prácticas hechas con Python durante mi aprendizaje.
